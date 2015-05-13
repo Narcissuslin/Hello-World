@@ -1,2 +1,3 @@
 # Hello-World
-My First Rep!
+My First Repository!
+Learn to use gitHub!
